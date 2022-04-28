@@ -1,4 +1,4 @@
-CREATE TABLE Interviewer (
+CREATE TABLE Interviewer1 (
     InterviewerID int,
     LastName varchar(255),
     FirstName varchar(255),
