@@ -1,2 +1,2 @@
 INSERT INTO Employee1 (EmployeeID, LastName, FirstName, City, PAN)
-VALUES ( '3030' , 'Robert' , 'John' , 'french street' , 'Ireland', 'BGQW');
+VALUES ( '3030' , 'Robert' , 'John' , 'Ireland', 'BGQW');
