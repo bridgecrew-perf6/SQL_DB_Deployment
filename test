@@ -1,0 +1,10 @@
+
+#!/bin/sh
+
+#
+# loop over the result of 'ls -1 *.SQL'
+#     'ls -1' sorts the file names based on the current locale 
+#     and presents them in a single column
+for i in *.SQL; do 
+  sqlcmd -d liquibase -i $i -P Mahesh@335 -S liquibase335.database.windows.net -U gmr
+done
