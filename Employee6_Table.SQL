@@ -1,4 +1,4 @@
-CREATE TABLE Employee7 (
+CREATE TABLE Employee20 (
     EmployeeID int,
     LastName varchar(255),
     FirstName varchar(255),
