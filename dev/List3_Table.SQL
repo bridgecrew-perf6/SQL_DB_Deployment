@@ -1,4 +1,4 @@
-CREATE TABLE List2 (
+CREATE TBLE List2 (
     EmployeeID int,
     LastName varchar(255),
     FirstName varchar(255),
